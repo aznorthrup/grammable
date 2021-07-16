@@ -63,9 +63,8 @@ source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
 
-gem 'simple_form'
 gem 'devise'
 
 group :development, :test do
-  gem 'rspec-rails', '~>3.5'
+  gem 'rspec-rails', '~>4.0.0.beta3'
 end
