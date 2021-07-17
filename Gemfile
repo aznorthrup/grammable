@@ -68,3 +68,5 @@ gem 'devise'
 group :development, :test do
   gem 'rspec-rails', '~>4.0.0.beta3'
 end
+
+gem 'simple_form'
