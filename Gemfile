@@ -67,6 +67,8 @@ gem 'devise'
 
 group :development, :test do
   gem 'rspec-rails', '~>4.0.0.beta3'
+  gem 'factory_bot_rails', '~> 6.2.0'
+  gem 'faker'
 end
 
 gem 'simple_form'
