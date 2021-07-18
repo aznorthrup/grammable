@@ -71,4 +71,7 @@ group :development, :test do
   gem 'faker'
 end
 
+gem 'carrierwave', '~> 2.0'
+
 gem 'simple_form'
+gem 'fog-aws'
