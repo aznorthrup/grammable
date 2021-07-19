@@ -10,6 +10,6 @@
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
 
-AWS_ACCESS_KEY: "AKIAZG3XPCAPWPNKROHA"
-AWS_SECRET_KEY: "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"
-AWS_BUCKET: "grammable-bucket-bryce"
+AWS_ACCESS_KEY:
+AWS_SECRET_KEY:
+AWS_BUCKET:
